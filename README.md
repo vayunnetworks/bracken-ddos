@@ -1,5 +1,7 @@
 # Traffic anomaly detection and mitigation coordination — BRACKEN Engineering Guide
 
+> BRACKEN denial-of-service detection and mitigation coordination with explainable traffic analysis, bounded policy actions, and rollback.
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN DDoS Defense
